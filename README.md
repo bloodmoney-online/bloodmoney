@@ -32,7 +32,7 @@
 <li><strong>Negative Ending</strong>: Use the cruelest tools for a fast $25,000, but face a shocking, deadly twist.</li>
 </ul>
 <h2>How Far Will You Go for $25,000?</h2>
-<p>Your mission in Bloodmoney is clear: gather $25,000 while grappling with your conscience.</p>
+<p>Your mission in <a href="https://bloodmoneygame.io/">Bloodmoney</a> is clear: gather $25,000 while grappling with your conscience.</p>
 <p><strong>Mechanics</strong>: Begin with $1 per click on Harvey. Save up to buy tools ($100, $500, $1500+) like feathers or harsher items, boosting earnings but escalating harm.</p>
 <p><strong>Choices</strong>: Opt for minimal harm with gentle tools, moderate pain for better gains, or maximum cruelty for the quickest route. Your decision shapes your fate.</p>
 <h2>Why Bloodmoney Captivates Players</h2>
